@@ -1,0 +1,150 @@
+{
+  "main": {
+    "id": "91c800da0e232ce2",
+    "type": "split",
+    "children": [
+      {
+        "id": "627371711b2ef9d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "511feb70ca161100",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Datetime.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "d5ea0c0c9026ebc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Datetime.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1ecf145809d3e7af",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "cf417fbd81179bec",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "3c95144de2bb6227",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "9ba5a1814661bc2a",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "ddd14a0d638fbdc0",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "eacfe4d53774ee08",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "594b642d0cba45db",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Python/Datetime.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "b035822b4dd74a3e",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Python/Datetime.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "e7e84596fe32c22e",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Python/Datetime.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "d5ea0c0c9026ebc6",
+  "lastOpenFiles": [
+    "linux/4_полезных_инструмента_для_поиска_и_удаления_повторяющихся_файлов_в_linux.md",
+    "linux/Без названия.md",
+    "index.md",
+    "Elv/quick_tour/tour.md",
+    "Elv/Elv.md",
+    "README.md",
+    "Fish/index.md",
+    "Fish.md"
+  ]
+}
